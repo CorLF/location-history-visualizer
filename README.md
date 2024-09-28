@@ -1,6 +1,6 @@
 # location-history-visualizer
 
-**Available online: [locationhistoryvisualizer.com/heatmap/](https://locationhistoryvisualizer.com/heatmap/)**
+**Fork from : https://github.com/theopolisme/location-history-visualizer with an update to make it work again.**
 
 A tool for visualizing your complete, consolidated, collected Google [Location History](https://google.com/locationhistory).
 
